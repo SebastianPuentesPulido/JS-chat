@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "CaskaydiaCove Nerd Font";
+    src: url(./assets/fonts/CaskaydiaCoveNerdFont-Regular.ttf);
+}
+
 :root {
     --bg-green:#07EFAD;
     --bg-black:#2D3436;
